@@ -40,3 +40,5 @@ VALUES ('2122GJ', 'KO2013','2021/2022', 'Ganjil');
 
 INSERT INTO OBA.CPL
 VALUES ('S.8', '2122GJ', 'Menginternalisasi nilai, norma, dan etika akademik');
+
+-- tessssssssssssssssssssssssssss
