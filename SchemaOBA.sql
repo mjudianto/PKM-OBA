@@ -1,17 +1,8 @@
 CREATE SCHEMA `OBA` ;
-
+use oba;
 -- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PkmOba_2022';
 
 -- flush privileges;
-
-CREATE TABLE `CPL` (
-  `IDCPL` varchar(8) NOT NULL,
-  `IDTahunAjar` char(6) NOT NULL,
-  `Deskripsi` text,
-  PRIMARY KEY (`IDCPL`,`IDTahunAjar`),
-  KEY `IDTahunAjarCPL_idx` (`IDTahunAjar`),
-  CONSTRAINT `IDTahunAjarCPL` FOREIGN KEY (`IDTahunAjar`) REFERENCES `TahunAjar` (`IDTahunAjar`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 CREATE TABLE `Kurikulum` (
   `IDKurikulum` varchar(32) NOT NULL,
@@ -28,6 +19,15 @@ CREATE TABLE `TahunAjar` (
   UNIQUE KEY `IDTahunAjar_UNIQUE` (`IDTahunAjar`),
   KEY `IDKurikulumTahunAjar_idx` (`IDKurikulum`),
   CONSTRAINT `IDKurikulumTahunAjar` FOREIGN KEY (`IDKurikulum`) REFERENCES `Kurikulum` (`IDKurikulum`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `CPL` (
+  `IDCPL` varchar(8) NOT NULL,
+  `IDTahunAjar` char(6) NOT NULL,
+  `Deskripsi` text,
+  PRIMARY KEY (`IDCPL`,`IDTahunAjar`),
+  KEY `IDTahunAjarCPL_idx` (`IDTahunAjar`),
+  CONSTRAINT `IDTahunAjarCPL` FOREIGN KEY (`IDTahunAjar`) REFERENCES `TahunAjar` (`IDTahunAjar`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 select * from OBA.Kurikulum;
