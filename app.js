@@ -1,15 +1,18 @@
 const express = require("express");
 const app = express();
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+
+app.post("/post", function(req, res)  {
+  const newUser = {
+    Username: req.body.username,
+  };
+
+  console.log(req.body.username,);
   
-app.get("/", (req, res) => {
-  res.send("Hello World!");
 });
 
-app.post("/post", (req, res) => {
-  console.log("Connected to React");
-  res.redirect("/");
-});
-  
-const PORT = process.env.PORT || 3000;
-  
+const PORT = process.env.PORT || 8080;
+
 app.listen(PORT, console.log(`Server started on port ${PORT}`));

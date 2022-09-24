@@ -2,10 +2,12 @@
   "name": "oba",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:8080",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
     "express": "^4.18.1",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.20",
@@ -15,6 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "dev" : "nodemon app.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
