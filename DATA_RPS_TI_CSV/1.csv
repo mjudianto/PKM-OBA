@@ -1,0 +1,35 @@
+S.8,"Menginternalisasi nilai, norma, dan etika akademik"
+S.9,Menunjukkan sikap bertanggung jawab atas pekerjaan di bidang keahliannya secara mandiri
+P.4,Menguasai teori dan konsep yang mendasari ilmu komputer
+P.5,"Menguasai konsep-onsep bahasa pemrograman, mengindentasi model-model bahasa pemrograman, serta membandingkan berbagai solusi"
+P.16,Menulis kode yang diperlukan untuk digunakan sebagai instruksi dalam membangun aplikasi komputer
+KU.1,"Mampu menerapkan pemikiran logis, kritis, sistematis serta kritis dalam konteks pengembangan atau implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humainora yang sesuai dengan bidang keahliannya"
+KU.2,"Mampu menunjukkan kinerja mandiri, bermutu dan terukur"
+,
+CPMK (Capaian Pembelajaran Mata Kuliah),
+CPMK 1,Mahasiswa memahami cara kerja komputer dan penggunaan komputer sehari-hari. 
+CPMK 2,Mahasiswa memahami dan dapat mengunakan editor C++ untuk menulis program 
+CPMK 3,Mahasiswa memahami struktur dan komponen algoritma serta dapat membuat algoritma sederhana 
+CPMK 4,"Mahasiswa dapat membuat, meng-compile, dan menjalankan program C++ sederhana"
+CPMK 5,Mahasiswa memahami macam-macam struktur kontrol dalam metode pemrograman terstruktur
+,"Mahasiswa memahami dan dapat membuat algoritma dengan struktur kontrol sekuensial, seleksi dan repetisi"
+CPMK 6,"Mahasiswa dapat membuat program C++ dengan struktur kontrol sekuential, seleksi dan repetisi"
+CPMK 7,Mahasiswa dapat memahami masalah sederhana dan membuat algoritma untuk menjawab masalah tersebut dengan metode pemrograman terstruktur
+CPMK 8,Mahasiswa dapat memahami masalah sederhana dan membuat program C++ untuk menjawab masalah tersebut dengan metode pemrograman terstruktur
+CPMK 9,Mahasiswa memahami perbedaan antara algoritma dengan sub algoritma/fungsi
+,Mahasiswa dapat membuat algoritma dengan macam-macam tipe fungsi 
+CPMK 10,Mahasiswa memahami perbedaan antara main program dan fungsi sebagai bagian dari program.
+,Mahasiswa dapat membuat program C++ dengan macam-macam tipe fungsi 
+CPMK 11,Mahasiswa dapat memahami perbedaan struktur data sederhana dan struktur data komposit
+,"Mahaiswa dapat membuat algoritma dengan menggunakan struktur data array 1 dimensi, string, array 2 dimensi dan struct"
+CPMK 12,Mahasiswa dapat memahami perbedaan struktur data sederhana dan struktur data komposit dalam program.
+,"Mahasiswa dapat membuat program C++ dengan menggunakan struktur data array 1 dimensi, string, array 2 dimensi dan struct"
+CPMK 13,"Mahasiswa dapat menjelaskan proses pengurutan data dengan metoda Selection sort, Exchange sort dan Insertion sort serta proses pencarian dengan metode Linear search dan Binary search"
+CPMK 14,"Mahasiswa dapat membuat program C++ untuk mengurutkan data dengan metoda Selection sort, exchange sort dan Insertion sort serta proses pencarian dengan metode Linear search dan Binary search"
+CPMK 15,Mahasiswa mengetahui garis besar pembelajaran mata kuliah pemrograman berorientasi objek.
+CPMK 16,Mahasiswa dapat menguasai dasar-dasar pemrograman berbahasa Java.
+CPMK 17,Mahasiswa dapat menguasai konsep Class dan Object pada pemrograman berorientasi objek.
+CPMK 18,Mahasiswa dapat mengerti cara dan kegunaan dari konsep inheritance.
+CPMK 19,Mahasiswa mengerti cara menangani String dan Regex pada Java.
+CPMK 20,Mahasiswa mampu membuat exception handling pada aplikasi Java.
+CPMK 21,Mahasiswa dapat membuat sebuah program desktop menggunakan bahasa Java dan berorientasi objek

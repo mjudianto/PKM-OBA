@@ -1,0 +1,25 @@
+,,
+S8,Menunjukkan sikap bertanggung jawab atas pekerjaan di bidang keahliannya secara mandiri,
+P2,Menguasai prinsip pengembangan algoritma dan berbagai konsep bahasa pemrograman untuk penyelesaian masalah,
+P4,"Menguasai konsep-konsep dasar pengembangan perangkat lunak, memiliki kecakapan yang berhubungan dengan proses pengembangan perangkat lunak, serta mampu membuat program untuk meningkatkan efektivitas penggunaan komputer untuk memecahkan masalah",
+P7,Memiliki pengetahuan akan perkembangan teknologi terkini dan cara pemanfaatannya di berbagai bidang,
+KU2,"Mampu menunjukkan kinerja mandiri, bermutu, dan terukur",
+CPMK (Capaian Pembelajaran Mata Kuliah),,
+CPMK 1,Mahasiswa mengetahui dan memahami pentingnya penggunaan struktur data yang tepat dalam penyelesaian permasalahan dengan pemrograman secara efektif dan efisien (P7),
+CPMK 2,"Mahasiswa memahami penggunaan struktur data, seperti list, stack, queue, dictionary, tree, dan graph, serta mampu mengimplementasikannya untuk menyelesaikan sebuah permasalahan dengan pemrograman (P7)",
+CPMK 3,"Mahasiswa menunjukan kemampuan dalam mempelajari struktur data lanjut secara mandiri dan/atau kelompok, serta mampu mengkomunikasikannya dalam laporan tertulis dan lisan (S8, P7, KU2)",
+Deskripsi Mata Kuliah,Mata kuliah Struktur data mempelajari berbagai cara untuk mengorganisasikan data dalam pemrograman untuk menyelesaikan sebuah persoalan secara efektif dan efisien.,
+,,
+Referensi,,
+Utama,,Pendukung
+"1.      Goodrich, M. T., Tamassia, R., Goldwasser, M. H. (2014). Data Structures and Algorithms in Java, 6th ed. Massachussetts: John Wiley & Sons, Inc.",,"1.      Liang, Y. D. (2019). Introduction to Java Programming and Data Structures, 11th ed. London: Pearson Education, Inc."
+"2.      Carrano, F. M. (2012). Data Structures and Abstractions with Java, 3rd ed. New Jersey: Pearson Education, Inc.",,"2.      Shaffer, C. F. (2011). Data Structures and Algorithm Analysis. Prentice-Hall."
+,,"3.      Halim, S. & Halim, F. (2013). Competitive Programming, 3rd ed. Lulu."
+,,"4.      Cormen, T. H., Leiserson, C. E., Rivest, R. L., Stein, C. (2009). Introduction to Algorithms, 3rd ed. Cambridge: MIT Press. "
+,,
+Perangkat Keras,,Perangkat Lunak
+1.      Papan tulis,,1.      Sistem operasi (Windows/Linux/macOS)
+2.      Alat tulis dan spidol,,2.      Microsoft PowerPoint
+3.      Microphone,,3.      Oracle JDK 12
+4.      Proyektor dan layar,,4.      IntelliJ IDEA 2019.3
+,,5.      Internet browser

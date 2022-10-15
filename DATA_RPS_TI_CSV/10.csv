@@ -1,0 +1,28 @@
+CPL-PRODI (Capaian Pembelajaran Lulusan Program Studi) yang dibebankan pada Mata Kuliah,,
+S8,Menunjukkan sikap bertanggung jawab atas pekerjaan di bidang keahliannya secara mandiri,
+P3,Menguasai konsep dan prinsip-prinsip sistem cerdas untuk pengembangan aplikasi sistem cerdas di berbagai bidang,
+P7,Memiliki pengetahuan akan perkembangan teknologi terkini dan cara pemanfaatannya di berbagai bidang,
+KU1,"Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu pengetahuan dan Teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang keahliannya",
+KU2,"Mampu menunjukkan kinerja mandiri, bermutu, dan terukur",
+KU7,Mampu bertanggung jawab atas pencapaian hasil kerja kelompok dan melakukan supervisi dan evaluasi terhadap penyelesaian pekerjaan yang ditugaskan kepada pekerja yang berada di bawah tanggung jawabnya,
+KU8,Mampu melakukan proses evaluasi diri kelompok kerja yang berada di bawah tanggung jawabnya dan mampu mengelola pembelajaran secara mandiri,
+KU10,"Memiliki kemampuan (pengelolaan) manajerial tim dan kerja sama (team work), manajemen diri, mampu berkomunikasi baik lisan maupun tertulis dengan baik dan mampu melakukan presentasi",
+KK2,Mampu membangun intelligent systems dan aplikasinya untuk mempermudah kehidupan manusia serta menciptakan peluang wirausaha,
+KK3,Mampu memproses dan menganalisis permasalahan yang berhubungan dengan big data dan mengimplementasikan hasil analisis tersebut dalam suatu aplikasi inovatif yang menunjang kewirausahaan di bidang teknologi informasi,
+CPMK (Capaian Pembelajaran Mata Kuliah),,
+CPMK 1,"Mahasiswa memahami konsep machine learning dan berbagai metode machine learning untuk diterapkan pada data citra, audio, video, dan teks",
+CPMK 2,Mahasiswa mampu menerapkan metode-metode machine learning pada data tertentu secara tepat dan memberikan hasil yang terukur dan akurat,
+Deskripsi Mata Kuliah,"Mata kuliah machine learning ini mendalami konsep-konsep dasar machine learning, serta berbagai metode machine learning untuk melakukan prediksi pada data yang berbentuk citra, audio, video, serta teks. Berbagai metode seperti linear regression, logistic regression, decision tree, support vector machine, dan sebagainya akan dibahas secara teoritik dan juga aplikasinya dalam bahasa pemrograman Python.",
+Referensi,,
+Utama,,Pendukung
+"1.       Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.",,"1.       Murphy, K. P. (2012). Machine Learning: A Probabilistic Perspective. MIT Press."
+"2.       Hastie, T., Tibshirani, R., Friedman, J. (2016). The Elements of Statistical Learning, 2nd ed. Springer.",,"2.       Hackeling, G. (2014). Mastering Machine Learning with scikit-learn. Packt Publishing"
+"3.       Raschka, S. (2015). Python Machine Learning. Packt Publishing.",,
+"4.       Mitchell, T. M. (1997). Machine Learning. McGraw-Hill.",,
+,,
+Perangkat Keras,,Perangkat Lunak
+1.       Komputer,,1.       Microsoft PowerPoint
+2.       Proyektor dan layar,,2.       Python 3
+3.       Papan tulis,,"3.       Pustaka NumPy, Scikit-Learn, Pandas, Matplotlib, dan Seaborn"
+4.       Alat tulis,,4.       Jupyter Notebook
+,,5.       Google Colaboratory

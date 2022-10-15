@@ -1,0 +1,27 @@
+CPL-PRODI (Capaian Pembelajaran Lulusan Program Studi) yang dibebankan pada Mata Kuliah,,
+S8,Menunjukkan sikap bertanggung jawab atas pekerjaan di bidang keahliannya secara mandiri,
+P4,"Menguasai konsep-konsep dasar pengembangan perangkat lunak, memiliki kecakapan yang berhubungan dengan proses pengembangan perangkat lunak, serta mampu membuat program untuk meningkatkan efektivitas penggunaan komputer untuk memecahkan masalah",
+P7,Memiliki pengetahuan akan perkembangan teknologi terkini dan cara pemanfaatannya di berbagai bidang,
+KU1,"Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang keahliannya",
+KU2,"Mampu menunjukkan kinerja mandiri, bermutu, dan terukur",
+KU7,Mampu bertanggung jawab atas pencapaian hasil kerja kelompok dan melakukan supervisi dan evaluasi terhadap penyelesaiain pekerjaan yang ditugaskan kepada pekerja yang berada di bawah tanggung jawabnya,
+KU8,Mampu melakukan proses evaluasi diri kelompok kerja yang berada di bawah tanggung jawabnya dan mampu mengelola pembelajaran secara mandiri,
+KU10,"Memiliki kemampuan (pengelolaan) manajerial tim dan kerja sama (team work), manajemen diri, mampu berkomunikasi baik lisan maupun tertulis dengan baik dan mampu melakukan presentasi",
+KK1,"Mampu membuat dan mengintegrasikan aplikasi berbasis desktop, web, atau mobile yang berestetika, komunikatif, dinamis, dan interaktif",
+,,
+CPMK (Capaian Pembelajaran Mata Kuliah),,
+CPMK 1,Mahasiswa mampu mengembangkan mobile apps yang memiliki desain antarmuka yang menarik dan fitur yang lengkap,
+CPMK 2,Mahasiswa mampu membuat konten multimedia dan games pada platform mobile,
+,,
+Deskripsi Mata Kuliah,"Mata kuliah ini mempelajari pengembangan aplikasi serta games berbasis mobile dengan menggunakan Flutter dan Unity. Apps dan games yang dibuat dapat berjalan di dua platform mobile, yaitu Android dan iOS.",
+Referensi,,
+Utama,,Pendukung
+1.       Unity. (2017). Learn with Unity. [Online]. Available: https://unity3d.com/learn,,"1.       Cardle, J. P. (2017). Android App Development in Android Studio. Manchester Academic Publishers."
+"2.       Windmill, E. (2020). Flutter in Action. Shelter Island, NY: Manning Publications.",,"2.       Bates, B. (2004). Game Design Second Edition. Thomson Course Technology"
+Perangkat Keras,,Perangkat Lunak
+1.       Komputer,,1.       Sistem Operasi (Windows/Linux/macOS)
+2.       Smartphone,,2.       Unity
+3.       Proyektor dan layar,,3.       Android Studio
+4.       Papan tulis,,4.       Oracle JDK 16
+5.       Alat tulis,,5.       Flutter SDK versi 2.0 ke atas
+,,6.       XCode
