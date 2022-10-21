@@ -1,5 +1,5 @@
 # Struktur Database(drawio)
-https://app.diagrams.net/#G1phH85btKTfvLdhp0a7nm-gJP3QsteqdW
+https://drive.google.com/file/d/1phH85btKTfvLdhp0a7nm-gJP3QsteqdW/view?usp=sharing
 
 # Many to Many relation
 https://www.tutorialsteacher.com/sqlserver/tables-relations#many-to-many-relation
